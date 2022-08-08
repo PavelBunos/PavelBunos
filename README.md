@@ -1,7 +1,7 @@
 Hi! My name is Pavel Bunos 👋
 ===
 Currently studying and living in Minsk.  
-Become a programmer.  
+I want to become a programmer.  
 18 y.o.  
 
 📫 Contacts:  
