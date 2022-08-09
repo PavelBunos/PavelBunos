@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is Pavel Bunos 👋</h1>
+<h1 align="center">Hello! I'm Pavel Bunos 👋</h1>
 
 Currently studying and living in Minsk.  
 I want to become a programmer.  
